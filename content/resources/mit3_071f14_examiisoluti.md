@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding final exam solutions.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-071-amorphous-materials-fall-2015/d9cde747167863b7eca47dd2cb835ae8_MIT3_071F14_ExamIISoluti.pdf
+file: /media/courses/3-071-amorphous-materials-fall-2015/d9cde747167863b7eca47dd2cb835ae8_MIT3_071F14_ExamIISoluti.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: Final Exam Solutions - 3.071 Fall 2015
 uid: d9cde747-1678-63b7-eca4-7dd2cb835ae8

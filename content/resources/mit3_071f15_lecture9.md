@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource contains information regarding lecture 9: Glass strengthening
   - 3.071 Fall 2015.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-071-amorphous-materials-fall-2015/cf64e935f4fe408bb03d6ef6521e671c_MIT3_071F15_Lecture9.pdf
+file: /media/courses/3-071-amorphous-materials-fall-2015/cf64e935f4fe408bb03d6ef6521e671c_MIT3_071F15_Lecture9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 9: Glass Strengthening - 3.071 Fall 2015'
 uid: cf64e935-f4fe-408b-b03d-6ef6521e671c

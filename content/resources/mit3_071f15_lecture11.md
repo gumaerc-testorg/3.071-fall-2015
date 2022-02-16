@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource contains information regarding lecture 11: Amorphous silicon
   macroelectronics - 3.071 Fall 2015.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-071-amorphous-materials-fall-2015/5d3a1ca6b2eda181441a642d9f7deab8_MIT3_071F15_Lecture11.pdf
+file: /media/courses/3-071-amorphous-materials-fall-2015/5d3a1ca6b2eda181441a642d9f7deab8_MIT3_071F15_Lecture11.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 11: Amorphous Silicon Macroelectronics - 3.071 Fall 2015'
 uid: 5d3a1ca6-b2ed-a181-441a-642d9f7deab8
