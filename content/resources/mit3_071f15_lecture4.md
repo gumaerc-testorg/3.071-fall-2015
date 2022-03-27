@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: bb852e12-03a6-e8a1-00c2-b7c7cfe9eb9a
 resourcetype: Document
 title: 'Lecture 4: Phase Change Data Storage - 3.071 Fall 2015'
 uid: 914b106a-0e0c-8b3e-ad9f-ec218dd03278

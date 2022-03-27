@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: bb852e12-03a6-e8a1-00c2-b7c7cfe9eb9a
 resourcetype: Document
 title: 'Lecture 13: Optical Fibers and Waveguides - 3.071 Fall 2015'
 uid: e07cfa79-82f6-647d-2a4b-e40ba3c2fbbc

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 03c9f166-4751-5c7e-2447-1b5b252b2ea2
 resourcetype: Other
 title: Glass_DSC.m
 uid: 25823dc9-08e2-a6a5-c23f-8ea1e3a322ad

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: bb852e12-03a6-e8a1-00c2-b7c7cfe9eb9a
 resourcetype: Document
 title: 'Lecture 14: Characterizing the Amorphous State - 3.071 Fall 2015'
 uid: 2e4590ef-857e-2ea1-371b-85339dd24057

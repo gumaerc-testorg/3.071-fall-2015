@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: bb852e12-03a6-e8a1-00c2-b7c7cfe9eb9a
 resourcetype: Document
 title: 'Lecture 5: Viscocity of Glass - 3.071 Fall 2015'
 uid: da2ac22e-3281-7cb9-de31-91e7a0ec150d

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 130481a7-a0ee-38c1-a6d7-b31fda93b8ce
 resourcetype: Document
 title: Final Exam Solutions - 3.071 Fall 2015
 uid: d9cde747-1678-63b7-eca4-7dd2cb835ae8

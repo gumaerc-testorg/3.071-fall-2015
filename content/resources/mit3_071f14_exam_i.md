@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 130481a7-a0ee-38c1-a6d7-b31fda93b8ce
 resourcetype: Document
 title: Mid-term Exam - 3.071 Fall 2015
 uid: 0d6f9b23-50b6-2428-1eb5-665863de88d0

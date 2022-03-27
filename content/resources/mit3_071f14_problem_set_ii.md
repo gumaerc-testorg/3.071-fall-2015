@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1a34ed68-65a9-3a2a-3866-8bc958328ee3
 resourcetype: Document
 title: 'Problem Set II: MSE medallions - 3.071 Fall 2015'
 uid: 0c3b9e24-977d-b83e-5286-d72c26f449f5

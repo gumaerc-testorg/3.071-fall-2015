@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1a34ed68-65a9-3a2a-3866-8bc958328ee3
 resourcetype: Document
 title: 'Problem Set III: Behavior and properties - 3.071 Fall 2015'
 uid: 7f818ddf-7702-c8fc-2aef-e387db33cf84

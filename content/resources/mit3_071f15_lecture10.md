@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: bb852e12-03a6-e8a1-00c2-b7c7cfe9eb9a
 resourcetype: Document
 title: 'Lecture 10: Electrical and Transport Properties - 3.071 Fall 2015'
 uid: 406b7966-2069-dca9-3109-298f745ae175

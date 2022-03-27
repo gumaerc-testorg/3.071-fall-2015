@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: bb852e12-03a6-e8a1-00c2-b7c7cfe9eb9a
 resourcetype: Document
 title: 'Lecture 8: Mechanical Properties - 3.071 Fall 2015'
 uid: d40eb6c6-d4ab-cdee-2d66-b83cbc736954
