@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides the schedule of lecture topics and the lecture
+  slides used for each session. '
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -25,7 +27,7 @@ LECTURE NOTES
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Fundamentals of the Amorphous State (PDF)]({{< baseurl >}}/resources/mit3_071f15_lecture1)
+{{% resource_link 244f9ff9-b893-8d89-66cb-6ebbf79acc3e "Fundamentals of the Amorphous State (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +36,7 @@ LECTURE NOTES
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Classes of Amorphous Materials (PDF - 1.2MB)]({{< baseurl >}}/resources/mit3_071f15_lecture2)
+{{% resource_link 25224366-c149-74b8-97ee-93b27def6225 "Classes of Amorphous Materials (PDF - 1.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +45,7 @@ LECTURE NOTES
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Glass Forming Theories (PDF - 1.4MB)]({{< baseurl >}}/resources/mit3_071f15_lecture3)
+{{% resource_link 11e638bc-fa15-8b75-e2c7-75ce38d5dc24 "Glass Forming Theories (PDF - 1.4MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +54,7 @@ LECTURE NOTES
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Phase Change Data Storage (PDF - 1.2MB)]({{< baseurl >}}/resources/mit3_071f15_lecture4)
+{{% resource_link 914b106a-0e0c-8b3e-ad9f-ec218dd03278 "Phase Change Data Storage (PDF - 1.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +63,7 @@ LECTURE NOTES
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Viscocity of Glass (PDF - 1.1MB)]({{< baseurl >}}/resources/mit3_071f15_lecture5)
+{{% resource_link da2ac22e-3281-7cb9-de31-91e7a0ec150d "Viscocity of Glass (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +72,7 @@ LECTURE NOTES
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Glass Shaping (PDF - 1.4MB)]({{< baseurl >}}/resources/mit3_071f15_lecture6)
+{{% resource_link c858e5e8-3ec5-0263-1064-2a7d6f87812b "Glass Shaping (PDF - 1.4MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +81,7 @@ LECTURE NOTES
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Viscoelasticity and Relaxation (PDF)]({{< baseurl >}}/resources/mit3_071f15_lecture7)
+{{% resource_link e38e7e85-eaa4-b138-badb-f01f673f8435 "Viscoelasticity and Relaxation (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +90,7 @@ LECTURE NOTES
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Mechanical Properties (PDF)]({{< baseurl >}}/resources/mit3_071f15_lecture8)
+{{% resource_link d40eb6c6-d4ab-cdee-2d66-b83cbc736954 "Mechanical Properties (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +99,7 @@ LECTURE NOTES
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Glass Strengthening (PDF - 1.3MB)]({{< baseurl >}}/resources/mit3_071f15_lecture9)
+{{% resource_link cf64e935-f4fe-408b-b03d-6ef6521e671c "Glass Strengthening (PDF - 1.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +108,7 @@ LECTURE NOTES
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Electrical and Transport Properties (PDF)]({{< baseurl >}}/resources/mit3_071f15_lecture10)
+{{% resource_link 406b7966-2069-dca9-3109-298f745ae175 "Electrical and Transport Properties (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +117,7 @@ LECTURE NOTES
 11
 {{< tdclose >}}
 {{< tdopen >}}
-[Amorphous Silicon Macroelectronics (PDF - 1.4MB)]({{< baseurl >}}/resources/mit3_071f15_lecture11)
+{{% resource_link 5d3a1ca6-b2ed-a181-441a-642d9f7deab8 "Amorphous Silicon Macroelectronics (PDF - 1.4MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +126,7 @@ LECTURE NOTES
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[Optical Properties (PDF - 2.2MB)]({{< baseurl >}}/resources/mit3_071f15_lecture12)
+{{% resource_link 71c6a48b-dc98-581d-5ce2-45785b423080 "Optical Properties (PDF - 2.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,7 +135,7 @@ LECTURE NOTES
 13
 {{< tdclose >}}
 {{< tdopen >}}
-[Optical Fibers and Waveguides (PDF - 1.3MB)]({{< baseurl >}}/resources/mit3_071f15_lecture13)
+{{% resource_link e07cfa79-82f6-647d-2a4b-e40ba3c2fbbc "Optical Fibers and Waveguides (PDF - 1.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +144,7 @@ LECTURE NOTES
 14
 {{< tdclose >}}
 {{< tdopen >}}
-[Characterizing the Amorphous State (PDF - 1.3MB)]({{< baseurl >}}/resources/mit3_071f15_lecture14)
+{{% resource_link 2e4590ef-857e-2ea1-371b-85339dd24057 "Characterizing the Amorphous State (PDF - 1.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
