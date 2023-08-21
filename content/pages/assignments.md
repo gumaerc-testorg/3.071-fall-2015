@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the three problem sets assigned for the course,
+  information on the final project report, and project topic examples.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -12,9 +14,9 @@ Problems Sets
 
 _Solutions are not available for these problem sets_.
 
-*   [Problem Set I: Glass Formation (PDF)]({{< baseurl >}}/resources/mit3_071f14_problem_set_i)
-*   [Problem Set II: MSE Medallions (PDF)]({{< baseurl >}}/resources/mit3_071f14_problem_set_ii)
-*   [Problems Set III: Behavior and Characteristics (PDF)]({{< baseurl >}}/resources/mit3_071f14_problem_setiii)
+*   {{% resource_link 3857a29c-8fa3-a97c-33fa-19c2ebab8936 "Problem Set I: Glass Formation (PDF)" %}}
+*   {{% resource_link 0c3b9e24-977d-b83e-5286-d72c26f449f5 "Problem Set II: MSE Medallions (PDF)" %}}
+*   {{% resource_link 7f818ddf-7702-c8fc-2aef-e387db33cf84 "Problems Set III: Behavior and Characteristics (PDF)" %}}
 
 Final Project Report
 --------------------

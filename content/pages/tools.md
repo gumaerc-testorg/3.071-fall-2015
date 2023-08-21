@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides MATLAB scripts that were used in the course.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
@@ -26,7 +27,7 @@ DESCRIPTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Cane\_Draw.m (M)]({{< baseurl >}}/resources/cane_draw)
+{{% resource_link 70e4de23-7212-64dc-6957-1f83d07928ca "Cane\_Draw.m (M)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Modeling the cane drawing process
@@ -35,7 +36,7 @@ Modeling the cane drawing process
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Free\_Volume\_Model.m (M)]({{< baseurl >}}/resources/free_volume_model)
+{{% resource_link c12ef842-3041-43e3-9ce6-448d37e8bef3 "Free\_Volume\_Model.m (M)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Volume relaxation
@@ -44,7 +45,7 @@ Volume relaxation
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Glass\_DSC.m (M)]({{< baseurl >}}/resources/glass_dsc)
+{{% resource_link 25823dc9-08e2-a6a5-c23f-8ea1e3a322ad "Glass\_DSC.m (M)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 DSC curve simulation
