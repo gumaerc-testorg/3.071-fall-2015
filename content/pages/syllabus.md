@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides information on meeting times, prerequisites,
+  class organization, grading policy, and exams.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -14,7 +16,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-_[3.024 Electronic, Optical and Magnetic Properties of Materials](/courses/3-024-electronic-optical-and-magnetic-properties-of-materials-spring-2013/)_
+_[3.024 Electronic, Optical and Magnetic Properties of Materials](/courses/3-024-electronic-optical-and-magnetic-properties-of-materials-spring-2013)_
 
 Class Organization
 ------------------
