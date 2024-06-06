@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding final exam review.
 file: /courses/3-071-amorphous-materials-fall-2015/a0d7d707e7d57363959001aa480f465a_MIT3_071F14_FinalReview.pdf
+file_size: 582314
 file_type: application/pdf
 learning_resource_types:
 - Exams
