@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding Mid-term exam.
 file: /courses/3-071-amorphous-materials-fall-2015/0d6f9b2350b624281eb5665863de88d0_MIT3_071F14_Exam_I.pdf
+file_size: 580303
 file_type: application/pdf
 learning_resource_types:
 - Exams
