@@ -2,6 +2,7 @@
 content_type: resource
 description: This is supporting file contains information regarding free_volume_model.
 file: /courses/3-071-amorphous-materials-fall-2015/c12ef842304143e39ce6448d37e8bef3_Free_Volume_Model.m
+file_size: 2257
 file_type: text/x-objcsrc
 learning_resource_types:
 - Tools
