@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding lecture 10: Electrical
   and transport properties - 3.071 Fall 2015.'
-file: /courses/3-071-amorphous-materials-fall-2015/406b79662069dca93109298f745ae175_MIT3_071F15_Lecture10.pdf
+file: /ol-ocw-studio-app/courses/3-071-amorphous-materials-fall-2015/406b79662069dca93109298f745ae175_MIT3_071F15_Lecture10.pdf
 file_size: 1065568
 file_type: application/pdf
 learning_resource_types:
