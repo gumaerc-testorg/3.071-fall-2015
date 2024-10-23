@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding mid-term exam review.
-file: /courses/3-071-amorphous-materials-fall-2015/2b1c6a96f4dc706cd658d6f49154dddb_MIT3_071F14_MidTermReview.pdf
+file: /ol-ocw-studio-app/courses/3-071-amorphous-materials-fall-2015/2b1c6a96f4dc706cd658d6f49154dddb_MIT3_071F14_MidTermReview.pdf
 file_size: 582675
 file_type: application/pdf
 learning_resource_types:
