@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is supporting file contains information regarding glass_DSC.
-file: /courses/3-071-amorphous-materials-fall-2015/25823dc908e2a6a5c23f8ea1e3a322ad_Glass_DSC.m
+file: /ol-ocw-studio-app/courses/3-071-amorphous-materials-fall-2015/25823dc908e2a6a5c23f8ea1e3a322ad_Glass_DSC.m
 file_size: 2102
 file_type: text/x-objcsrc
 learning_resource_types:

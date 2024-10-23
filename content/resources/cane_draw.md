@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is supporting file contains information regarding cane_draw.
-file: /courses/3-071-amorphous-materials-fall-2015/70e4de23721264dc69571f83d07928ca_Cane_Draw.m
+file: /ol-ocw-studio-app/courses/3-071-amorphous-materials-fall-2015/70e4de23721264dc69571f83d07928ca_Cane_Draw.m
 file_size: 2198
 file_type: text/x-objcsrc
 learning_resource_types:
