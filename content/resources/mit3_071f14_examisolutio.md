@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding mid-term exam solutions.
-file: /ol-ocw-studio-app/courses/3-071-amorphous-materials-fall-2015/a8ce668f68bc5aa988a47622916fdc5e_MIT3_071F14_ExamISolutio.pdf
+file: /courses/3-071-amorphous-materials-fall-2015/a8ce668f68bc5aa988a47622916fdc5e_MIT3_071F14_ExamISolutio.pdf
 file_size: 593033
 file_type: application/pdf
 learning_resource_types:
