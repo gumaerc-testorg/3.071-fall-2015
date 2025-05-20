@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding lecture 6: Glass shaping
   - 3.071 Fall 2015.'
-file: /ol-ocw-studio-app/courses/3-071-amorphous-materials-fall-2015/c858e5e83ec5026310642a7d6f87812b_MIT3_071F15_Lecture6.pdf
+file: /courses/3-071-amorphous-materials-fall-2015/c858e5e83ec5026310642a7d6f87812b_MIT3_071F15_Lecture6.pdf
 file_size: 1473828
 file_type: application/pdf
 learning_resource_types:

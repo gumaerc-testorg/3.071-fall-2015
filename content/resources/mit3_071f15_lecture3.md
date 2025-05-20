@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding lecture 3: Glass forming
   theories - 3.071 Fall 2015.'
-file: /ol-ocw-studio-app/courses/3-071-amorphous-materials-fall-2015/11e638bcfa158b75e2c775ce38d5dc24_MIT3_071F15_Lecture3.pdf
+file: /courses/3-071-amorphous-materials-fall-2015/11e638bcfa158b75e2c775ce38d5dc24_MIT3_071F15_Lecture3.pdf
 file_size: 1458590
 file_type: application/pdf
 learning_resource_types:

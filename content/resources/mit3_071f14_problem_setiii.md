@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding problems set III: behavior
   and characteristics.'
-file: /ol-ocw-studio-app/courses/3-071-amorphous-materials-fall-2015/7f818ddf7702c8fc2aefe387db33cf84_MIT3_071F14_Problem_SetIII.pdf
+file: /courses/3-071-amorphous-materials-fall-2015/7f818ddf7702c8fc2aefe387db33cf84_MIT3_071F14_Problem_SetIII.pdf
 file_size: 209595
 file_type: application/pdf
 learning_resource_types:
