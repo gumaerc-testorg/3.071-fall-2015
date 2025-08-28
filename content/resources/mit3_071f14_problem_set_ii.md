@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding problem set II: MSE medallions.'
-file: /courses/3-071-amorphous-materials-fall-2015/0c3b9e24977db83e5286d72c26f449f5_MIT3_071F14_Problem_Set_II.pdf
+file: /ol-ocw-studio-app/courses/3-071-amorphous-materials-fall-2015/0c3b9e24977db83e5286d72c26f449f5_MIT3_071F14_Problem_Set_II.pdf
 file_size: 121646
 file_type: application/pdf
 learning_resource_types:
