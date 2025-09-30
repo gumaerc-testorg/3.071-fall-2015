@@ -28,7 +28,7 @@ For the presentations, each of you will get 12 minutes of total time. Please pla
 Project Topic Examples
 ----------------------
 
-*   [Glass Box Cracks at 1,353 Feet Above: Is it Still Safe?](http://www.express.co.uk/news/world/479147/Willis-Tower-Tourist-in-glass-box-1-350ft-up-sees-floor-CRACK-under-him)
+*   {{% resource_link "cd6a7256-6b47-4971-bf64-63c9de8edaa3" "Glass Box Cracks at 1,353 Feet Above: Is it Still Safe?" %}}
 *   Can we make smart phones smarter with built-in photonics? _Opt. Express_ 22, 15473 (2014).
-*   [Where is my Metallic Glass Cased iPhone?](http://www.thehelper.net/threads/apple-iphone-5-to-be-cased-in-liquidmetal.154710/)
+*   {{% resource_link "224b44ac-aeae-4df9-8e70-a63e77c2ea78" "Where is my Metallic Glass Cased iPhone?" %}}
 *   Waste vitrification: Can we lock radioactive waste in a safe box?
