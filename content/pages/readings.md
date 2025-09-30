@@ -11,7 +11,7 @@ uid: 1d3a5bbd-98b1-f32c-3c9a-e24cfbab4d3b
 ---
 \[AV\] = Varshneya, Arun K. *Fundamentals of Inorganic Glasses*. Academic Press, 1993. ISBN: 9780127149707.
 
-\[JS\] = Shelby, James E. *Introduction to Glass Science and Technology*. Royal Society of Chemistry, 2005. ISBN: 9780854046393. \[Preview with [Google Books](http://books.google.com/books?id=ZeF_QLW6-xsC&pg=PAfrontcover)\]
+\[JS\] = Shelby, James E. *Introduction to Glass Science and Technology*. Royal Society of Chemistry, 2005. ISBN: 9780854046393. \[Preview with {{% resource_link "63e3d592-59d8-4e12-a49f-497bccb7f010" "Google Books" %}}\]
 
 Doremus, Robert H. *Glass Science*. 2nd ed. Wiley-Interscience, 1994. ISBN: 9780471891741.
 
@@ -49,19 +49,19 @@ READINGS
 
 Topological Constraint Theory
 
-Thorpe, M. "[Continuous Deformations in Random Networks.](http://dx.doi.org/10.1016/0022-3093(83)90424-6)" *Journal of Non-Crystalline Solids* 57, no. 3 (1983): 355–70.
+Thorpe, M. "{{% resource_link "69a8fa18-917b-4532-b86a-99eb6c2cb128" "Continuous Deformations in Random Networks." %}}" *Journal of Non-Crystalline Solids* 57, no. 3 (1983): 355–70.
 
-Mauro, J. ["Topological Constraint Theory of Glass." (PDF - 2.7MB)](http://www.lehigh.edu/imi/teched/AtModel/Lecture_9_READING_Micoulaut_Atomistics_Glass_Course.pdf) *American Ceramic Society Bulletin* 90, no. 4.
+Mauro, J. {{% resource_link "0407cdc6-f502-43c5-9378-711807b99f9f" "\"Topological Constraint Theory of Glass.\" (PDF - 2.7MB)" %}} *American Ceramic Society Bulletin* 90, no. 4.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
 
-Raoux, Simone, and Matthias Wuttig, eds. *Phase Change Materials: Science and Application*. Springer, 2009. ISBN: 9780387848730. \[Preview with [Google Books](http://books.google.com/books?id=AO3SNSM2ykUC&pg=PAfrontcover)\]
+Raoux, Simone, and Matthias Wuttig, eds. *Phase Change Materials: Science and Application*. Springer, 2009. ISBN: 9780387848730. \[Preview with {{% resource_link "3ae58e9c-8f12-464c-a8d3-0074078d1aba" "Google Books" %}}\]
 
-Hong, Seungbum, Orlando Auciello, and Dirk Wouters, eds. *Emerging Non-Volatile Memories*. Springer, 2014. ISBN: 9781489975362. \[Preview with [Google Books](http://books.google.com/books?id=lnN3BQAAQBAJ&pg=PAfrontcover)\]
+Hong, Seungbum, Orlando Auciello, and Dirk Wouters, eds. *Emerging Non-Volatile Memories*. Springer, 2014. ISBN: 9781489975362. \[Preview with {{% resource_link "3ba8958a-76de-44d7-94bf-a19713e5eac1" "Google Books" %}}\]
 
-Wuttig, Matthias. "[Phase Change Materials and Phase Change Memory?](http://dx.doi.org/10.1557/mrs.2014.139)" *MRS Bulletin* 39, no. 8 (2014): 703–10.
+Wuttig, Matthias. "{{% resource_link "7137631f-5978-4e80-b30a-e0d74f4dbf38" "Phase Change Materials and Phase Change Memory?" %}}" *MRS Bulletin* 39, no. 8 (2014): 703–10.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
